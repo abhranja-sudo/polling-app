@@ -1,4 +1,4 @@
-package com.ar50645.polls.repositories;
+package com.ar50645.polls.repository;
 
 import com.ar50645.polls.model.ChoiceVoteCount;
 import com.ar50645.polls.model.Vote;

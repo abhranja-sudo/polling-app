@@ -1,7 +1,7 @@
 package com.ar50645.polls.security;
 
 import com.ar50645.polls.model.User;
-import com.ar50645.polls.repositories.UserRepository;
+import com.ar50645.polls.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

@@ -1,4 +1,4 @@
-package com.ar50645.polls.repositories;
+package com.ar50645.polls.repository;
 
 import com.ar50645.polls.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
