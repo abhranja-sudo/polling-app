@@ -14,7 +14,7 @@ import java.util.TimeZone;
         Jsr310JpaConverters.class
 })
 public class PollsApplication {
-
+//test git revision
     @PostConstruct
     void init(){
         TimeZone.setDefault(TimeZone.getTimeZone("UTC"));
