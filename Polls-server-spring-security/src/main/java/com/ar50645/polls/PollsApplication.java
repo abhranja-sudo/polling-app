@@ -19,6 +19,7 @@ public class PollsApplication {
     void init(){
         TimeZone.setDefault(TimeZone.getTimeZone("UTC"));
     }
+    console.log("test updtte 2");
 
     public static void main(String[] args) {
         SpringApplication.run(PollsApplication.class, args);
